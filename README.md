@@ -1,2 +1,2 @@
 # firstgithub
-this is first repo
+this is first github showing some minimum function 
